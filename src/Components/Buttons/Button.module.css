@@ -1,0 +1,14 @@
+.wrapper button {
+	width: 172px;
+	height: 47px;
+	flex-shrink: 0;
+	border: 2px solid var(--color-white);
+	color: var(--pure-white, var(--color-white));
+	text-align: center;
+	font-family: Inter;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 600;
+	line-height: normal;
+	background-color: var(--color-black);
+}

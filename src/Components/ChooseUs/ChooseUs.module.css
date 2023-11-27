@@ -1,0 +1,28 @@
+.wrapper {
+	width: 100%;
+}
+
+.header {
+	text-align: center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.header h3 {
+	color: var(--pure-white, #fff);
+	font-family: Inter;
+	font-size: 54px;
+	font-style: normal;
+	font-weight: 600;
+	line-height: 143.023%;
+	width: 437px;
+	height: 77px;
+}
+
+.boxWrapper {
+	display: flex;
+	align-items: center;
+	justify-content: space-evenly;
+	margin: 50px;
+}
